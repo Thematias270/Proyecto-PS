@@ -1,0 +1,189 @@
+{
+    "pcs_de_escritorio": {
+        "nombre": "PCs de escritorio",
+        "columnas": [
+            "id",
+            "nombre asignado",
+            "nombre actual",
+            "nombre original",
+            "¿dominio?",
+            "ubicación",
+            "instalación",
+            "Área",
+            "empresa",
+            "marca",
+            "modelo",
+            "s\/o",
+            "cpu",
+            "memoria",
+            "disco",
+            "n\/s",
+            "responsable",
+            "usuario local",
+            "total pcs",
+            "0"
+        ]
+    },
+    "impresoras": {
+        "nombre": "Impresoras",
+        "columnas": [
+            "id",
+            "fabricante",
+            "modelo",
+            "nombre",
+            "ubicación",
+            "instalación",
+            "asignado a",
+            "sn",
+            "estado",
+            "dirección ip",
+            "dirección mac",
+            "¿dhcp?"
+        ]
+    },
+    "televisores": {
+        "nombre": "Televisores",
+        "columnas": [
+            "id",
+            "ubicación",
+            "marca",
+            "modelo",
+            "nombre",
+            "sector",
+            "oficina",
+            "sn"
+        ]
+    },
+    "monitores": {
+        "nombre": "Monitores",
+        "columnas": [
+            "id",
+            "ubicación",
+            "instalación",
+            "marca",
+            "modelo",
+            "nombre",
+            "asignado a",
+            "¿puerto hdmi?",
+            "sn",
+            "estado",
+            "empresa"
+        ]
+    },
+    "auriculares": {
+        "nombre": "Auriculares",
+        "columnas": [
+            "id",
+            "marca",
+            "modelo",
+            "nombre",
+            "asignado a",
+            "sn"
+        ]
+    },
+    "mouses": {
+        "nombre": "Mouses",
+        "columnas": [
+            "id",
+            "marca",
+            "modelo",
+            "nombre",
+            "asignado a",
+            "sn"
+        ]
+    },
+    "teléfonos": {
+        "nombre": "Teléfonos",
+        "columnas": [
+            "id",
+            "marca",
+            "modelo",
+            "nombre",
+            "asignado a",
+            "sn"
+        ]
+    },
+    "servidores": {
+        "nombre": "Servidores",
+        "columnas": [
+            "id",
+            "ubicación",
+            "instalación",
+            "Área",
+            "empresa",
+            "marca",
+            "modelo",
+            "nombre",
+            "s\/o",
+            "cpu",
+            "memoria",
+            "disco",
+            "n\/s",
+            "televisor",
+            "monitor",
+            "¿mouse?",
+            "¿teclado?",
+            "responsable",
+            "usuario local"
+        ]
+    },
+    "otros_activos": {
+        "nombre": "Otros activos",
+        "columnas": [
+            "id",
+            "activo",
+            "modelo",
+            "nombre",
+            "ubicación",
+            "sn",
+            "7 telefonos ethernet en vizcacheras almacen (4 en desuso)"
+        ]
+    },
+    "asignaciones": {
+        "nombre": "Asignaciones",
+        "columnas": [
+            "id",
+            "nombre y apellido o sector solicitante",
+            "Área",
+            "empresa",
+            "tipo activo",
+            "marca",
+            "modelo",
+            "nombre (si corresponde)",
+            "fecha de entrega",
+            "motivo"
+        ]
+    },
+    "devoluciones_bajas": {
+        "nombre": "Devoluciones - Bajas",
+        "columnas": [
+            "id",
+            "nombre y apellido",
+            "Área",
+            "empresa",
+            "tipo",
+            "marca",
+            "modelo",
+            "nombre",
+            "fecha de devolución",
+            "motivo"
+        ]
+    },
+    "notebooks": {
+        "nombre": "Notebooks",
+        "columnas": [
+            "id",
+            "nombre",
+            "marca",
+            "modelo",
+            "s\/o",
+            "cpu",
+            "memoria",
+            "disco",
+            "n\/s",
+            "asignación actual",
+            "empresa",
+            "Área"
+        ]
+    }
+}

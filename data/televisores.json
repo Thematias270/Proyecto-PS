@@ -1,0 +1,512 @@
+[
+    {
+        "ubicación": "Barrancas",
+        "marca": "LG",
+        "modelo": null,
+        "nombre": "TVBCAS001",
+        "sector": "Gerencia",
+        "oficina": "Oficina Gerencia",
+        "sn": null,
+        "id": 1
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": null,
+        "nombre": "TVBCAS002",
+        "sector": "Jefatura GA",
+        "oficina": "Oficina Jefatura GA",
+        "sn": null,
+        "id": 2
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": null,
+        "nombre": "TVBCAS003",
+        "sector": "General",
+        "oficina": "Sala de reuniones - Cristo redentor",
+        "sn": null,
+        "id": 3
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS004",
+        "sector": "General",
+        "oficina": "Sala de reuniones - Cerro Aconcagua",
+        "sn": null,
+        "id": 4
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS005",
+        "sector": "General",
+        "oficina": "Sala de reuniones -",
+        "sn": null,
+        "id": 5
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "LG",
+        "modelo": null,
+        "nombre": "TVBCAS006",
+        "sector": "General",
+        "oficina": "Sector Transporte",
+        "sn": null,
+        "id": 6
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Bravia",
+        "modelo": null,
+        "nombre": "TVBCAS007",
+        "sector": "General",
+        "oficina": "Sector Energía",
+        "sn": null,
+        "id": 7
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": "LH49PMHPBGC\/ZB",
+        "nombre": "TVBCAS008",
+        "sector": "MTR (derecha)",
+        "oficina": "Oficina - MTR",
+        "sn": null,
+        "id": 8
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": "LH49PMHPBGC\/ZB",
+        "nombre": "TVBCAS009",
+        "sector": "MTR (centro derecha)",
+        "oficina": "Oficina - MTR",
+        "sn": "049UHNFJ700099R",
+        "id": 9
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": "LH49PMHPBGC\/ZB",
+        "nombre": "TVBCAS010",
+        "sector": "MTR (centro izquierda)",
+        "oficina": "Oficina - MTR",
+        "sn": "049UHNFJ700050X",
+        "id": 10
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Samsung",
+        "modelo": "LH49PMHPBGC\/ZB",
+        "nombre": "TVBCAS011",
+        "sector": "MTR (izquierda)",
+        "oficina": "Oficina - MTR",
+        "sn": "049UHNFJ700066Y",
+        "id": 11
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS012",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 12
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS013",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 13
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS014",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 14
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS015",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 15
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS016",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 16
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS017",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 17
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS018",
+        "sector": "Sala de Control",
+        "oficina": "Edificio Luján - Sala Control",
+        "sn": null,
+        "id": 18
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS019",
+        "sector": "Sala de Seguridad",
+        "oficina": "Edificio Luján - Sala Seguridad",
+        "sn": null,
+        "id": 19
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS020",
+        "sector": "Sala de Seguridad",
+        "oficina": "Edificio Luján - Sala Seguridad",
+        "sn": null,
+        "id": 20
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS021",
+        "sector": "Sala de Seguridad",
+        "oficina": "Edificio Luján - Sala Seguridad",
+        "sn": null,
+        "id": 21
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS022",
+        "sector": "Sala de Seguridad",
+        "oficina": "Edificio Luján - Sala Seguridad",
+        "sn": null,
+        "id": 22
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS023",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 23
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS024",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 24
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS025",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 25
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS026",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 26
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS027",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 27
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": null,
+        "modelo": null,
+        "nombre": "TVBCAS028",
+        "sector": "Programación",
+        "oficina": "Edificio Luján - Programación",
+        "sn": null,
+        "id": 28
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "Philips",
+        "modelo": "No identificado",
+        "nombre": "TVBCAS029",
+        "sector": "Uso general",
+        "oficina": "Ugarteche - Sala de reuniones",
+        "sn": null,
+        "id": 29
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "LG",
+        "modelo": "No identificado",
+        "nombre": "TVBCAS030",
+        "sector": "Uso general",
+        "oficina": "Ugarteche - Comedor",
+        "sn": null,
+        "id": 30
+    },
+    {
+        "ubicación": "Barrancas",
+        "marca": "LG",
+        "modelo": "No identificado",
+        "nombre": "TVBCAS031",
+        "sector": "Supervisores UG",
+        "oficina": "Ugarteche - Sala de supervisores",
+        "sn": null,
+        "id": 31
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "LG",
+        "modelo": "No identificado",
+        "nombre": "TVLV001",
+        "sector": "Administración",
+        "oficina": "Oficina principal  - 2VM",
+        "sn": "Desconocido",
+        "id": 32
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Samsung",
+        "modelo": "No identificado",
+        "nombre": "TVLV002",
+        "sector": "Supervisores",
+        "oficina": "Sala supervisores",
+        "sn": "Desconocido",
+        "id": 33
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Samsung",
+        "modelo": "No identificado",
+        "nombre": "TVLV003",
+        "sector": "Uso general",
+        "oficina": "Sala de reuniones",
+        "sn": "Desconocido",
+        "id": 34
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Philips",
+        "modelo": "No identificado",
+        "nombre": "TVLV004",
+        "sector": "Uso general",
+        "oficina": "Comedor",
+        "sn": "Desconocido",
+        "id": 35
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Samsung",
+        "modelo": "No identificado",
+        "nombre": "TVLV005",
+        "sector": "Administración",
+        "oficina": "2VM - Oficina Administración",
+        "sn": "Desconocido",
+        "id": 36
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "LG",
+        "modelo": "No identificado",
+        "nombre": "TVLV006",
+        "sector": "Administración",
+        "oficina": "Oficina principal  - 2VM",
+        "sn": "Desconocido",
+        "id": 37
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Samsung",
+        "modelo": "No identificado",
+        "nombre": "TVLV007",
+        "sector": "PTC - Supervisión",
+        "oficina": "Sala de control PTC",
+        "sn": "Desconocido",
+        "id": 38
+    },
+    {
+        "ubicación": "La Ventana",
+        "marca": "Samsung",
+        "modelo": "No identificado",
+        "nombre": "TVLV008",
+        "sector": "Almacen",
+        "oficina": "Almacen",
+        "sn": "Desconocido",
+        "id": 39
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Philips",
+        "modelo": "47PFL7403\/77",
+        "nombre": "TVVIZ001",
+        "sector": "Mantenimiento",
+        "oficina": "Edificio principal - Mantenimiento",
+        "sn": "2435MEH1Q5N8",
+        "id": 40
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "LG",
+        "modelo": "32LK4308",
+        "nombre": "TVVIZ002",
+        "sector": "Comedor",
+        "oficina": "Comedor",
+        "sn": "210NSMA02379",
+        "id": 41
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Philips",
+        "modelo": "42PFL5332\/77",
+        "nombre": "TVVIZ003",
+        "sector": "Comedor",
+        "oficina": "Comedor",
+        "sn": "FC100833009746",
+        "id": 42
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Samsung",
+        "modelo": "Desconocido",
+        "nombre": "TVVIZ004",
+        "sector": "Sala de reuniones",
+        "oficina": "Sala de reuniones",
+        "sn": "Desconocido",
+        "id": 43
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Samsung",
+        "modelo": "Desconocido",
+        "nombre": "TVVIZ005",
+        "sector": "Producción",
+        "oficina": "Edificio principal - Producción",
+        "sn": "Desconocido",
+        "id": 44
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "NOBLEX",
+        "modelo": null,
+        "nombre": "TVVIZ006",
+        "sector": "Suren Vizcacheras",
+        "oficina": "Edificio SUREN - Acceso",
+        "sn": "Desconocido",
+        "id": 45
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Desconocida",
+        "modelo": "Desconocido",
+        "nombre": "TVVIZ007",
+        "sector": "Suren Vizcacheras",
+        "oficina": "Edificio SUREN - Comedor",
+        "sn": "Desconocido",
+        "id": 46
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "LG",
+        "modelo": "42LK450",
+        "nombre": "TVVIZ008",
+        "sector": "Sala de control",
+        "oficina": "PTC - Sala de control",
+        "sn": "209NSLB0L215",
+        "id": 47
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "LG",
+        "modelo": "42LB5800",
+        "nombre": "TVVIZ009",
+        "sector": "Sala de control",
+        "oficina": "PTC - Sala de control",
+        "sn": "505NSWM1F681",
+        "id": 48
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Samsung",
+        "modelo": "LH40DCEPLGC\/ZB",
+        "nombre": "TVVIZ010",
+        "sector": "Sala de control",
+        "oficina": "PTC - Sala de control",
+        "sn": "066WHCJJ400021N",
+        "id": 49
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Samsung",
+        "modelo": "Desconocido",
+        "nombre": "TVVIZ011",
+        "sector": "Supervisión",
+        "oficina": "PTC - Oficina supervisión",
+        "sn": "Desconocido",
+        "id": 50
+    },
+    {
+        "ubicación": "Vizcacheras",
+        "marca": "Philips",
+        "modelo": null,
+        "nombre": "TVVIZ012",
+        "sector": "Uso general",
+        "oficina": "PTC - Sala de reuniones",
+        "sn": "Desconocido",
+        "id": 51
+    }
+]
