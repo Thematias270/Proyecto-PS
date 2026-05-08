@@ -4,7 +4,11 @@
         "modelo": "M130",
         "nombre": "MSEBCAS0001",
         "asignado a": "Gustavo Giorlando",
+<<<<<<< HEAD
         "sn": "",
+=======
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "id": 1
     },
     {
@@ -12,7 +16,11 @@
         "modelo": "M130",
         "nombre": "MSEBCAS0002",
         "asignado a": "Johana Aguirre",
+<<<<<<< HEAD
         "sn": "",
+=======
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "id": 2
     },
     {
@@ -20,7 +28,11 @@
         "modelo": "M130",
         "nombre": "MSEBCAS0003",
         "asignado a": "Mauricio Alfaro",
+<<<<<<< HEAD
         "sn": "",
+=======
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "id": 3
     },
     {

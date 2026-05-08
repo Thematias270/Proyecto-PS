@@ -825,7 +825,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0064",
         "asignado a": "Ivan Oron",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSFZ1F555",
         "estado": "Funcional",
         "empresa": "PS",
@@ -838,7 +842,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0065",
         "asignado a": "Alexis Kowalski",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "109NSXT13674",
         "estado": "Funcional",
         "empresa": "PS",
@@ -851,7 +859,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0066",
         "asignado a": "Sin asignar (escritorio de Alexis)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSQP1A348",
         "estado": "Funcional",
         "empresa": "PS",
@@ -864,7 +876,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0067",
         "asignado a": "Gustavo Giorlando",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "111NSNS0D927",
         "estado": "Funcional",
         "empresa": "PS",
@@ -877,7 +893,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0068",
         "asignado a": "Andrea Di Cesare",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSJD1C524",
         "estado": "Funcional",
         "empresa": "PS",
@@ -890,7 +910,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0069",
         "asignado a": "Andrea Di Cesare",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XCB00482T",
         "estado": "Funcional",
         "empresa": "PS",
@@ -903,7 +927,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0070",
         "asignado a": "Mariano Aliberti",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA00142W",
         "estado": "Funcional",
         "empresa": "PS",
@@ -916,7 +944,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0071",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "407NSJD03916",
         "estado": "Funcional",
         "empresa": "PS",
@@ -929,7 +961,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0072",
         "asignado a": "Fabio Vides",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504727P",
         "estado": "Funcional",
         "empresa": "PS",
@@ -942,7 +978,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0073",
         "asignado a": "Fabio Vides",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504730F",
         "estado": "Funcional",
         "empresa": "PS",
@@ -955,7 +995,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0074",
         "asignado a": "Pablo Nogara",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC806218A",
         "estado": "Funcional",
         "empresa": "PS",
@@ -968,7 +1012,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0075",
         "asignado a": "Lisandro Martinez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8360ZZ5",
         "estado": "Funcional",
         "empresa": "PS",
@@ -981,7 +1029,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0076",
         "asignado a": "Nicolas Bouillard",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "11NSGH0E175",
         "estado": "Funcional",
         "empresa": "PS",
@@ -994,7 +1046,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0077",
         "asignado a": "Luis Franco",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XCB00382Z",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1007,7 +1063,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONBCAS0078",
         "asignado a": "Luis Franco",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VT403982N",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1020,7 +1080,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0079",
         "asignado a": "Roberto Robles",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "111NSBN0E165",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1033,7 +1097,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0080",
         "asignado a": "Leandro Salomon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01371W",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1046,7 +1114,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0081",
         "asignado a": "Leandro Salomon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH700619V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1059,7 +1131,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0082",
         "asignado a": "Jorge Bisotto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XGA01710B",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1072,7 +1148,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0083",
         "asignado a": "Diego Garzon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "20NSHQ08065",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1085,7 +1165,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONBCAS0084",
         "asignado a": "Diego Garzon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VT403963E",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1098,7 +1182,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0085",
         "asignado a": "María Lorca",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR81401YJ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1111,7 +1199,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0086",
         "asignado a": "María Lorca",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH200128B",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1124,7 +1216,11 @@
         "modelo": "U3011t",
         "nombre": "MONBCAS0087",
         "asignado a": "Dario Morgani",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MX-OPH5NY-74446-17T-400L",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1137,7 +1233,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0088",
         "asignado a": "Dario Morgani",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "109NSXT13530",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1150,7 +1250,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0089",
         "asignado a": "Martín Barría",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103569V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1163,7 +1267,11 @@
         "modelo": "U3011t",
         "nombre": "MONBCAS0090",
         "asignado a": "Martín Barría",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MX-OPH5NY-74446-17T-402L",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1176,7 +1284,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0091",
         "asignado a": "Jesús Quiroga",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XC809669X",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1189,7 +1301,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0092",
         "asignado a": "Pablo Gusberti",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XD501282K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1202,7 +1318,11 @@
         "modelo": "F277350FHL",
         "nombre": "MONBCAS0093",
         "asignado a": "Sofía Oillataguerre (ex oficina)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0RH9VT757367R",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1215,7 +1335,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0094",
         "asignado a": "Gustavo Gil",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504721N",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1228,7 +1352,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0095",
         "asignado a": "Germán Olaiz",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSHQ0K185",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1241,7 +1369,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0096",
         "asignado a": "Germán Olaiz",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103557M",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1254,7 +1386,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0097",
         "asignado a": "Juan Ballester (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01496B",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1267,7 +1403,11 @@
         "modelo": "P223",
         "nombre": "MONBCAS0098",
         "asignado a": "Sin asignar (oficina de Juan Ballester)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LGQ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1280,7 +1420,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0099",
         "asignado a": "Sin asignar (oficina de Juan Ballester)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSNS1A359",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1293,7 +1437,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0100",
         "asignado a": "Mario Manrique (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504726W",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1306,7 +1454,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONBCAS0101",
         "asignado a": "Ariel Peze (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VTB89662R",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1319,7 +1471,11 @@
         "modelo": "S22A33ANHL",
         "nombre": "MONBCAS0102",
         "asignado a": "Leonardo Rodriguez (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "5JBDH4TT604106D",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1332,7 +1488,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0103",
         "asignado a": "Javier Jofré (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSWMOK225",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1345,7 +1505,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0104",
         "asignado a": "Ariel Ceresoli (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504710X",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1358,7 +1522,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0105",
         "asignado a": "Marcos Martos (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05076J",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1371,7 +1539,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0106",
         "asignado a": "Sin asignar (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSBN1A317",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1384,7 +1556,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0107",
         "asignado a": "Ariel Interladi (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103585L",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1397,7 +1573,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0108",
         "asignado a": "Carlos Cepeda (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH700602W",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1410,7 +1590,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0109",
         "asignado a": "Carlos Ceballos (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05021Y",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1423,7 +1607,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0110",
         "asignado a": "José Ríos (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSZF1D181",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1436,7 +1624,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0111",
         "asignado a": "Adrián López (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01513K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1449,7 +1641,11 @@
         "modelo": "MBL2230W",
         "nombre": "MONBCAS0112",
         "asignado a": "Mario Alaniz (104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "No tiene",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1462,7 +1658,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0113",
         "asignado a": "Sin asignar (oficina en desuso 104)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSHQ1L457",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1475,7 +1675,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0114",
         "asignado a": "Victoria Rosatti",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC806216Z",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1488,7 +1692,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0115",
         "asignado a": "Marcelo Bonatto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSAC1A432",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1501,7 +1709,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0116",
         "asignado a": "Melisa Gabrielco",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR81401ZZ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1514,7 +1726,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0117",
         "asignado a": "Mariana Novello",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH700606V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1527,7 +1743,11 @@
         "modelo": "22MP55D",
         "nombre": "MONBCAS0118",
         "asignado a": "Alfredo Bonatto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "506NSKK1B237",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1540,7 +1760,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0119",
         "asignado a": "Marcelo Costarelli",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSEJ0K412",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1553,7 +1777,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0120",
         "asignado a": "Marcelo Costarelli",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHC01698F",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1562,12 +1790,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Jefatura PRD",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0121",
         "asignado a": "Andrés Tiofiolo",
         "¿puerto hdmi?": "si",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0121",
+        "asignado a": "Andrés Tiofiolo",
+        "¿puerto hdmi?": "Sí",
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 121
@@ -1575,12 +1812,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Jefatura PRD",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0122",
         "asignado a": "Sin asignar",
         "¿puerto hdmi?": "si",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0122",
+        "asignado a": "Sin asignar",
+        "¿puerto hdmi?": "Sí",
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 122
@@ -1592,7 +1838,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0123",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05143F",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1605,7 +1855,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0124",
         "asignado a": "Sala de MTR (derecha, abajo, izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDJ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1618,7 +1872,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0125",
         "asignado a": "Sala de MTR (derecha, abajo, derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZF3",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1631,7 +1889,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0126",
         "asignado a": "Sala de MTR (derecha, arriba, izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDB",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1644,7 +1906,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0127",
         "asignado a": "Sala de MTR (derecha, arriba, centro izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDK",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1657,7 +1923,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0128",
         "asignado a": "Sala de MTR (derecha, arriba, centro derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZF2",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1670,7 +1940,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0129",
         "asignado a": "Sala de MTR (derecha, arriba, derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZG4",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1683,7 +1957,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0130",
         "asignado a": "Sala de MTR (izquierda, abajo, izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDM",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1696,7 +1974,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0131",
         "asignado a": "Sala de MTR (izquierda, abajo, derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521YHK",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1709,7 +1991,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0132",
         "asignado a": "Sala de MTR (izquierda, arriba, izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZD9",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1722,7 +2008,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0133",
         "asignado a": "Sala de MTR (izquierda, arriba, centro izquierda)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZF9",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1735,7 +2025,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0134",
         "asignado a": "Sala de MTR (izquierda, arriba, centro derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDL",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1748,7 +2042,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0135",
         "asignado a": "Sala de MTR (izquierda, arriba, derecha)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZDC",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1761,7 +2059,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0136",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190QW7",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1774,7 +2076,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0137",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RW9",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1787,7 +2093,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0138",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWK",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1800,7 +2110,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0139",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RW6",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1813,7 +2127,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0140",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWC",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1826,7 +2144,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0141",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWG",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1839,7 +2161,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0142",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RW5",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1852,7 +2178,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0143",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWD",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1865,7 +2195,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0144",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWM",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1878,7 +2212,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0145",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RW3",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1891,7 +2229,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0146",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RW4",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1904,7 +2246,11 @@
         "modelo": "P24v",
         "nombre": "MONBCAS0147",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR2190RWF",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1917,7 +2263,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0148",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA04864M",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1930,7 +2280,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0149",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05119M",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1943,7 +2297,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0150",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH903572V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1956,7 +2314,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0151",
         "asignado a": "Sala de seguridad",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSPE19648",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1969,7 +2331,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0152",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XC809675B",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1982,7 +2348,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0153",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05040F",
         "estado": "Funcional",
         "empresa": "PS",
@@ -1991,12 +2361,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0154",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0154",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 154
@@ -2004,12 +2383,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0155",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0155",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 155
@@ -2017,12 +2405,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0156",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0156",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 156
@@ -2030,12 +2427,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0157",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0157",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 157
@@ -2043,12 +2449,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0158",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0158",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 158
@@ -2056,12 +2471,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0159",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0159",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 159
@@ -2069,12 +2493,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0160",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0160",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 160
@@ -2082,12 +2515,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0161",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0161",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 161
@@ -2095,12 +2537,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0162",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0162",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 162
@@ -2108,12 +2559,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0163",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0163",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 163
@@ -2121,12 +2581,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0164",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0164",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 164
@@ -2134,12 +2603,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0165",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0165",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 165
@@ -2147,12 +2625,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0166",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0166",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 166
@@ -2160,12 +2647,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0167",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0167",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 167
@@ -2173,12 +2669,21 @@
     {
         "ubicación": "Barrancas",
         "instalación": "Edificio Luján - Programación",
+<<<<<<< HEAD
         "marca": "",
         "modelo": "",
         "nombre": "MONBCAS0168",
         "asignado a": "",
         "¿puerto hdmi?": "",
         "sn": "",
+=======
+        "marca": null,
+        "modelo": null,
+        "nombre": "MONBCAS0168",
+        "asignado a": null,
+        "¿puerto hdmi?": null,
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 168
@@ -2187,11 +2692,19 @@
         "ubicación": "Barrancas",
         "instalación": "Sala en frente de Programación",
         "marca": "Samsung",
+<<<<<<< HEAD
         "modelo": "",
         "nombre": "MONBCAS0169",
         "asignado a": "Sin asignar",
         "¿puerto hdmi?": "si",
         "sn": "",
+=======
+        "modelo": null,
+        "nombre": "MONBCAS0169",
+        "asignado a": "Sin asignar",
+        "¿puerto hdmi?": "Sí",
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 169
@@ -2200,11 +2713,19 @@
         "ubicación": "Barrancas",
         "instalación": "Sala en frente de Programación",
         "marca": "Samsung",
+<<<<<<< HEAD
         "modelo": "",
         "nombre": "MONBCAS0170",
         "asignado a": "Sin asignar",
         "¿puerto hdmi?": "si",
         "sn": "",
+=======
+        "modelo": null,
+        "nombre": "MONBCAS0170",
+        "asignado a": "Sin asignar",
+        "¿puerto hdmi?": "Sí",
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 170
@@ -2213,11 +2734,19 @@
         "ubicación": "Barrancas",
         "instalación": "Sala en frente de Programación",
         "marca": "LG",
+<<<<<<< HEAD
         "modelo": "",
         "nombre": "MONBCAS0171",
         "asignado a": "Sin asignar",
         "¿puerto hdmi?": "no",
         "sn": "",
+=======
+        "modelo": null,
+        "nombre": "MONBCAS0171",
+        "asignado a": "Sin asignar",
+        "¿puerto hdmi?": "No",
+        "sn": null,
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "estado": "Funcional",
         "empresa": "PS",
         "id": 171
@@ -2229,7 +2758,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0175",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01344Y",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2242,7 +2775,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0176",
         "asignado a": "Valot",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05078R",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2255,7 +2792,11 @@
         "modelo": "22MP55D",
         "nombre": "MONBCAS0177",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "508NSDR0X122",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2268,7 +2809,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0178",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "411N8TG0D561",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2281,7 +2826,11 @@
         "modelo": "E2213Hb",
         "nombre": "MONBCAS0179",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0VHJY2-74261-2BN-2K3L",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2294,7 +2843,11 @@
         "modelo": "E2213Hb",
         "nombre": "MONBCAS0180",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0V8JY2-74261-2BN-2JKL",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2307,7 +2860,11 @@
         "modelo": "P223",
         "nombre": "MONBCAS0181",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KQ7",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2320,7 +2877,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0182",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSBN0K229",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2333,7 +2894,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0183",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC807969A",
         "estado": "No funcional",
         "empresa": "PS",
@@ -2346,7 +2911,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0184",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01385M",
         "estado": "Estropeado",
         "empresa": "PS",
@@ -2359,7 +2928,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0185",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "407NSWM03913",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2372,7 +2945,11 @@
         "modelo": "P223",
         "nombre": "MONBCAS0186",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LCJ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2385,7 +2962,11 @@
         "modelo": "S20A300B",
         "nombre": "MONBCAS0187",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "2109H8XBB02932H",
         "estado": "No funcional",
         "empresa": "PS",
@@ -2398,7 +2979,11 @@
         "modelo": "HSTND-2H02",
         "nombre": "MONBCAS0188",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNC719PYM1",
         "estado": "Estropeado",
         "empresa": "PS",
@@ -2411,7 +2996,11 @@
         "modelo": "PL766A",
         "nombre": "MONBCAS0189",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK70601MR",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2424,7 +3013,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0190",
         "asignado a": "Matías Morán",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSVY19983",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2437,7 +3030,11 @@
         "modelo": "P2210T",
         "nombre": "MONBCAS0191",
         "asignado a": "Equipo de Torre - Suren 07",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "100701H01 01978",
         "estado": "Funcional",
         "empresa": "PS",
@@ -2450,7 +3047,11 @@
         "modelo": "P2210T",
         "nombre": "MONBCAS0192",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2463,7 +3064,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0193",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2476,7 +3081,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0194",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSJD1F724",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2489,7 +3098,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0195",
         "asignado a": "Carlos Luzuriaga",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSJD1F700",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -2502,7 +3115,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0196",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSEJ1F548",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2515,7 +3132,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0197",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSWM1F529",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2528,7 +3149,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0198",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHC01659Z",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2541,7 +3166,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0199",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0V8JY2-74261-2AG-19VB",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2554,7 +3183,11 @@
         "modelo": "P223",
         "nombre": "MONBCAS0200",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KKK",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2567,7 +3200,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0201",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSCX1A323",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2580,7 +3217,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0202",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "401NSNS0A487",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2593,7 +3234,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0203",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSRU1B926",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2606,7 +3251,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0204",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSUL1A334",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2619,7 +3268,11 @@
         "modelo": "E2341V",
         "nombre": "MONBCAS0205",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "109NSYV14186",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2632,7 +3285,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0206",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSVYA559",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2645,7 +3302,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0207",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSGH19823",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2658,7 +3319,11 @@
         "modelo": "22MP55D",
         "nombre": "MONBCAS0208",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "505NSJDOK620",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2671,7 +3336,11 @@
         "modelo": "HSTND-9381-Q",
         "nombre": "MONBCAS0209",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LC6",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2684,7 +3353,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0210",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSFZ1M979",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2697,7 +3370,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0211",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2710,7 +3387,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0212",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSKK0K413",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2723,7 +3404,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0213",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2736,7 +3421,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0214",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSMA1K171",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2749,7 +3438,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0215",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSSW1K070",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2762,7 +3455,11 @@
         "modelo": "2208WFPt",
         "nombre": "MONBCAS0216",
         "asignado a": "Equipo de Torre",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2775,7 +3472,11 @@
         "modelo": "MBL2230W",
         "nombre": "MONBCAS0217",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2788,7 +3489,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0218",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2801,7 +3506,11 @@
         "modelo": "2208WFPt",
         "nombre": "MONBCAS0219",
         "asignado a": "Equipo de Torre",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2814,7 +3523,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0220",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2827,7 +3540,11 @@
         "modelo": "E2211Hc",
         "nombre": "MONBCAS0221",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-07NO12-64180-2A9-07UM",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2840,7 +3557,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0222",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSEJ1N092",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2853,7 +3574,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0223",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSYV0K186",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2866,7 +3591,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0224",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHC01732Y",
         "estado": "Defectuoso",
         "empresa": "PS",
@@ -2879,7 +3608,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0225",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSXT1A338",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2892,7 +3625,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0226",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSAC1F552",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2905,7 +3642,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0227",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSMA1L467",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2918,7 +3659,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0228",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSVYA319",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2931,7 +3676,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0229",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSBN02837",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2944,7 +3693,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0230",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSXT1L450",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2957,7 +3710,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0231",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSLB1F472",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2970,7 +3727,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0232",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSMA0N595",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2983,7 +3744,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0233",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSPE0K112",
         "estado": "A determinar",
         "empresa": "PS",
@@ -2996,7 +3761,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0234",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "411NSLB0F080",
         "estado": "A determinar",
         "empresa": "PS",
@@ -3009,7 +3778,11 @@
         "modelo": "2208WFPt",
         "nombre": "MONBCAS0235",
         "asignado a": "Fernando Martin",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-OF532H-71618-872-450M-A01",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -3022,7 +3795,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0236",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSBN1E797",
         "estado": "A determinar",
         "empresa": "PS",
@@ -3035,7 +3812,11 @@
         "modelo": "P9621D",
         "nombre": "MONBCAS0237",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNN5192BRL",
         "estado": "A determinar",
         "empresa": "PS",
@@ -3048,7 +3829,11 @@
         "modelo": "EF227A",
         "nombre": "MONBCAS0238",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNG6390GHT",
         "estado": "Defectuoso",
         "empresa": "PS",
@@ -3087,7 +3872,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0241",
         "asignado a": "Iván Gil",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3100,7 +3889,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0242",
         "asignado a": "Jose Santarelli",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSSTG0K409",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3113,7 +3906,11 @@
         "modelo": "LS23B350",
         "nombre": "MONBCAS0243",
         "asignado a": "Alejandro Kovacs",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XD501267H",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3126,7 +3923,11 @@
         "modelo": "BEJLB200A",
         "nombre": "MONBCAS0244",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "G2090",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -3139,7 +3940,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0245",
         "asignado a": "Guillermo Escoriaza",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR81401Z2",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3152,7 +3957,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0246",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSBN1D677",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -3165,7 +3974,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0247",
         "asignado a": "Matías Rodriguez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "411NSDR0F082",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3178,7 +3991,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0248",
         "asignado a": "Carlos Luzuriaga",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSDR1D690",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3191,7 +4008,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0249",
         "asignado a": "Carlos Luzuriaga",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "LS23B350HSCZB",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3204,7 +4025,11 @@
         "modelo": "9122EA53T",
         "nombre": "MONBCAS0250",
         "asignado a": "Martín Manrique",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "001044",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3217,7 +4042,11 @@
         "modelo": "9122EA53T",
         "nombre": "MONBCAS0251",
         "asignado a": "Martín Manrique",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "008289",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3230,7 +4059,11 @@
         "modelo": "N246V",
         "nombre": "MONBCAS0252",
         "asignado a": "Gabriel Barauna",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR81401Z8",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3243,7 +4076,11 @@
         "modelo": "LF22T350FHLCZB",
         "nombre": "MONBCAS0253",
         "asignado a": "Gabriel Barauna",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VW551836R",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3256,7 +4093,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0254",
         "asignado a": "Pablo Prina",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3269,7 +4110,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0255",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSXT1A362",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3282,7 +4127,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0256",
         "asignado a": "Alejandro Dantiaq",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XGA01729J",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3295,7 +4144,11 @@
         "modelo": "PE1232",
         "nombre": "MONBCAS0257",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNN5262F5H",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -3308,7 +4161,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0258",
         "asignado a": "AVERIGUAR",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05069X",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3321,7 +4178,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0259",
         "asignado a": "Manuel Mora",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XGA01595J",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3334,7 +4195,11 @@
         "modelo": "X7R61AA",
         "nombre": "MONBCAS0260",
         "asignado a": "Ariel Disenttimio",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LH1",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3347,7 +4212,11 @@
         "modelo": "S23B350H",
         "nombre": "MONBCAS0261",
         "asignado a": "Santiago Muñoz",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC807288T",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3360,7 +4229,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0262",
         "asignado a": "Santiago Muñoz",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103607E",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3373,7 +4246,11 @@
         "modelo": "2208WFPt",
         "nombre": "MONBCAS0263",
         "asignado a": "Santiago Muñoz",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-OF532H-71618-87M-BVPM-A01",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3386,7 +4263,11 @@
         "modelo": "22MP55D",
         "nombre": "MONBCAS0264",
         "asignado a": "Alejandro Turinetti",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "508NSWM0X129",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3399,7 +4280,11 @@
         "modelo": "22MP55D",
         "nombre": "MONBCAS0265",
         "asignado a": "Alejandro Turinetti",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "508NSJD0W428",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3412,7 +4297,11 @@
         "modelo": "S22F350FH",
         "nombre": "MONBCAS0266",
         "asignado a": "Johana Aguirre",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZQFH4ZJ501313L",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3425,7 +4314,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0267",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504675Y",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -3438,7 +4331,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0001",
         "asignado a": "Gabriel Donoso",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSFZ1L451",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3451,7 +4348,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONLV0002",
         "asignado a": "Ramiro Neme",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01434Y",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3464,7 +4365,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONLV0003",
         "asignado a": "Walter Sosa",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VTB89660L",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3477,7 +4382,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0004",
         "asignado a": "Haroldo Bustamante",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSRU0K206",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3490,7 +4399,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0005",
         "asignado a": "Santiago Nuñez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSHQ1A435",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3503,7 +4416,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0006",
         "asignado a": "Sin Asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSGH0K407",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3516,7 +4433,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONLV0007",
         "asignado a": "Pablo Gómez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VWB53331J",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3529,7 +4450,11 @@
         "modelo": "2208WFPt",
         "nombre": "MONLV0008",
         "asignado a": "Guillermo Huber",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Sin identificar",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3542,7 +4467,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0009",
         "asignado a": "Marcelo Siri",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSBN0K061",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3555,7 +4484,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0010",
         "asignado a": "Damian Doria",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSFZ0K179",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3568,7 +4501,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONLV0011",
         "asignado a": "Fernando Chacón",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH504709K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3581,7 +4518,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONLV0012",
         "asignado a": "Fernando Chacón",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VW205275K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3594,7 +4535,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONLV0013",
         "asignado a": "Iván Agnic",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA04866H",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3607,7 +4552,11 @@
         "modelo": "P223",
         "nombre": "MONLV0014",
         "asignado a": "Iván Agnic",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KKV",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3620,7 +4569,11 @@
         "modelo": "LI706",
         "nombre": "MONLV0015",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNN62710ZB",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3633,7 +4586,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0016",
         "asignado a": "Martín Bustamante",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSZF1A325",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3646,7 +4603,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0017",
         "asignado a": "Juan Ballester (2VM)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSTG0K193",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3659,7 +4620,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0018",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSCX0K403",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3672,7 +4637,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0019",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSEJ1D692",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3685,7 +4654,11 @@
         "modelo": "P223",
         "nombre": "MONLV0020",
         "asignado a": "Operador sala de control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KPY",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3698,7 +4671,11 @@
         "modelo": "Desconocido",
         "nombre": "MONLV0021",
         "asignado a": "Operador sala de control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0V8JY2-74261-2BN-2JYL",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3711,7 +4688,11 @@
         "modelo": "E2341V",
         "nombre": "MONLV0022",
         "asignado a": "Operador sala de control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "202NSHQ07873",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3724,7 +4705,11 @@
         "modelo": "E2341V",
         "nombre": "MONLV0023",
         "asignado a": "Operador sala de control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "202NSAC07854",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3737,7 +4722,11 @@
         "modelo": "Desconocido",
         "nombre": "MONLV0024",
         "asignado a": "Operador sala de control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0V8JY2-74261-2BN-2KCL",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3750,7 +4739,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0025",
         "asignado a": "Operador laboratorio",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSAC0K200",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3763,7 +4756,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0026",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSPE1L456",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3776,7 +4773,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0027",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSGH1C535",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3789,7 +4790,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0028",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSNS1C519",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3802,7 +4807,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0029",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSAC1C520",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3815,7 +4824,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0030",
         "asignado a": "PC Escritorio",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSBN0K661",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3828,7 +4841,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0031",
         "asignado a": "PC EScritorio",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSFZ1A339",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3841,7 +4858,11 @@
         "modelo": "22EA53T",
         "nombre": "MONLV0032",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSPE19552",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3854,7 +4875,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONLV0033",
         "asignado a": "Lautaro Prieto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05158N",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3867,7 +4892,11 @@
         "modelo": "S23B350H",
         "nombre": "MONLV0034",
         "asignado a": "Lautaro Prieto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9XC809683M",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3880,7 +4909,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONLV0035",
         "asignado a": "Fernando Martinez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01423K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3893,7 +4926,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONVIZ0001",
         "asignado a": "Cristian Ruvira",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01179K",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3906,7 +4943,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0002",
         "asignado a": "Sin asignar (ex omar ibaceta)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSQP0K212",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3919,7 +4960,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0003",
         "asignado a": "Marcelo Ferreyra",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSZF0K405",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3932,7 +4977,11 @@
         "modelo": "P24 G4",
         "nombre": "MONVIZ0004",
         "asignado a": "Sebastián Egles",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3CM1141D9P",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3945,7 +4994,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONVIZ0005",
         "asignado a": "Jonathan Regules",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VTB89837D",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3958,7 +5011,11 @@
         "modelo": "N246V",
         "nombre": "MONVIZ0006",
         "asignado a": "Sergio Salcedo",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8521ZFP",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3971,7 +5028,11 @@
         "modelo": "N246V",
         "nombre": "MONVIZ0007",
         "asignado a": "Silvio Moris",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR81401Y1",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3984,7 +5045,11 @@
         "modelo": "N246V",
         "nombre": "MONVIZ0008",
         "asignado a": "Juan Pablo Iñón",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "1CR8460Z52",
         "estado": "Funcional",
         "empresa": "PS",
@@ -3997,7 +5062,11 @@
         "modelo": "No identificado",
         "nombre": "MONVIZ0009",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "No tiene",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4010,7 +5079,11 @@
         "modelo": "S23B350H",
         "nombre": "MONVIZ0010",
         "asignado a": "Haroldo Bustamante",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC806193V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4023,7 +5096,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0011",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSCX0K283",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4036,7 +5113,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0012",
         "asignado a": "Sebastián Bernalez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "408NSYV0K210",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4049,7 +5130,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0013",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSXML474",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4062,7 +5147,11 @@
         "modelo": "743NX",
         "nombre": "MONVIZ0014",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MY17H9NQ902657X",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4075,7 +5164,11 @@
         "modelo": "PL766A",
         "nombre": "MONVIZ0015",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNC728R7FR",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4088,7 +5181,11 @@
         "modelo": "L1740",
         "nombre": "MONVIZ0016",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CND7302S50",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4101,7 +5198,11 @@
         "modelo": "F22T350FHL",
         "nombre": "MONVIZ0017",
         "asignado a": "Mauricio Castillo (trabajador almacén)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "0F0QH9VTB49973N",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4114,7 +5215,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0018",
         "asignado a": "Mauricio Castillo (trabajador almacén)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSKK1C517",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4127,7 +5232,11 @@
         "modelo": "S23B350H",
         "nombre": "MONVIZ0019",
         "asignado a": "Maximiliano Rago",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "S040H9HC807962V",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4140,7 +5249,11 @@
         "modelo": "743NX",
         "nombre": "MONVIZ0020",
         "asignado a": "Sin asignar (oficina Rago)",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MY17H9NQ902929E",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4153,7 +5266,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0021",
         "asignado a": "Fernando Barotto",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSUL1K174",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4166,7 +5283,11 @@
         "modelo": "S22A33ANHL",
         "nombre": "MONVIZ0022",
         "asignado a": "Walter Reynoso",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "5JBDH4TT601418T",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4179,7 +5300,11 @@
         "modelo": "E2341V",
         "nombre": "MONVIZ0023",
         "asignado a": "Laboratorio",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "202NSUL07286",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4192,7 +5317,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0024",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LGM",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4205,7 +5334,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0025",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KPZ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4218,7 +5351,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0026",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KPD",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4231,7 +5368,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0027",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KQ5",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4244,7 +5385,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0028",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501KQ3",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4257,7 +5402,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0029",
         "asignado a": "Sala de Control",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LBQ",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4270,7 +5419,11 @@
         "modelo": "P223",
         "nombre": "MONVIZ0030",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CNK7501LC8",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4283,7 +5436,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONVIZ0031",
         "asignado a": "Fernando Nuñez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01390Y",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4296,7 +5453,11 @@
         "modelo": "22EA53T",
         "nombre": "MONVIZ0032",
         "asignado a": "Iván Agnic",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSHQ1C097",
         "estado": "Funcional",
         "empresa": "PS",
@@ -4309,7 +5470,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0268",
         "asignado a": "Miguel Callejon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XGA01703J",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4322,7 +5487,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0269",
         "asignado a": "Miguel Callejon",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4334,8 +5503,13 @@
         "marca": "Samsung",
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0270",
+<<<<<<< HEAD
         "asignado a": "",
         "¿puerto hdmi?": "si",
+=======
+        "asignado a": null,
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103614Z",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4347,8 +5521,13 @@
         "marca": "Samsung",
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0271",
+<<<<<<< HEAD
         "asignado a": "",
         "¿puerto hdmi?": "si",
+=======
+        "asignado a": null,
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA05116L",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4361,7 +5540,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0272",
         "asignado a": "Ramiro Martinez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01412T",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4374,7 +5557,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0273",
         "asignado a": "Ramiro Martinez",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "401NSPE0A016",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4387,7 +5574,11 @@
         "modelo": "E2211Hc",
         "nombre": "MONBCAS0274",
         "asignado a": "Julio Abraham",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-07NO12-64180-27V-0CUM",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4400,7 +5591,11 @@
         "modelo": "S22A33ANHL",
         "nombre": "MONBCAS0275",
         "asignado a": "Julio Abraham",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "5JBDH4TT604091H",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4413,7 +5608,11 @@
         "modelo": "S22A33ANHL",
         "nombre": "MONBCAS0276",
         "asignado a": "Alejandro Palazzo",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "5JBDH4TT601402V",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4426,7 +5625,11 @@
         "modelo": "S22A33ANHL",
         "nombre": "MONBCAS0277",
         "asignado a": "Alejandro Palazzo",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "5JBDH4TT604045H",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4438,8 +5641,13 @@
         "marca": "LG",
         "modelo": "22MP55D",
         "nombre": "MONBCAS0278",
+<<<<<<< HEAD
         "asignado a": "",
         "¿puerto hdmi?": "no",
+=======
+        "asignado a": null,
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "508NSWM0X081",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4451,8 +5659,13 @@
         "marca": "LG",
         "modelo": "22EA53T",
         "nombre": "MONBCAS0279",
+<<<<<<< HEAD
         "asignado a": "",
         "¿puerto hdmi?": "no",
+=======
+        "asignado a": null,
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "309NSDR19826",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4465,7 +5678,11 @@
         "modelo": "W2341V",
         "nombre": "MONBCAS0280",
         "asignado a": "Sebastian Lucero",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "111NSWM0D449",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4478,7 +5695,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0281",
         "asignado a": "Sebastian Lucero",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XJ103573W",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4491,7 +5712,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0282",
         "asignado a": "Gerardo Rubilar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH200123K",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4504,7 +5729,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0283",
         "asignado a": "Gerardo Rubilar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Sí",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XHA01399J",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4517,7 +5746,11 @@
         "modelo": "2007FPb",
         "nombre": "MONBCAS0284",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MX-0G324H-74262-88F-1DWL-A05",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -4530,7 +5763,11 @@
         "modelo": "E2211Hc",
         "nombre": "MONBCAS0285",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-07N012-641280-27M-22NU",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4543,7 +5780,11 @@
         "modelo": "2007FPb",
         "nombre": "MONBCAS0286",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "MX0G324H-74262-128-1M1L",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -4556,7 +5797,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0287",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "311NSFZ1K611",
         "estado": "A determinar",
         "empresa": "Suren",
@@ -4569,7 +5814,11 @@
         "modelo": "Desconocido",
         "nombre": "MONBCAS0288",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "Desconocido",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4582,7 +5831,11 @@
         "modelo": "LS22D300FYCZB",
         "nombre": "MONBCAS0289",
         "asignado a": "Carlos Capadona",
+<<<<<<< HEAD
         "¿puerto hdmi?": "si",
+=======
+        "¿puerto hdmi?": "Si",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "ZZEEH9XH704591K",
         "estado": "Funcional",
         "empresa": "Suren",
@@ -4595,7 +5848,11 @@
         "modelo": "1708FPt",
         "nombre": "MONBCAS0290",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "CN-0G467H-74443-8A9-EA04",
         "estado": "A determinar",
         "empresa": "PS",
@@ -4608,7 +5865,11 @@
         "modelo": "22EA53T",
         "nombre": "MONBCAS0292",
         "asignado a": "Sin asignar",
+<<<<<<< HEAD
         "¿puerto hdmi?": "no",
+=======
+        "¿puerto hdmi?": "No",
+>>>>>>> ef7d6c1b338ad4cdc01189cb73f61b92ed0b5a8d
         "sn": "3D9NSQP1A324",
         "estado": "Funcional",
         "empresa": "PS",
