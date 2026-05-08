@@ -18,7 +18,7 @@ C:\xampp\htdocs\
 Ejemplo:
 
 ```text
-C:\xampp\htdocs\inventario
+C:\xampp\htdocs\Proyecto-PS
 ```
 
 ---
@@ -41,7 +41,7 @@ composer.lock
 
 ---
 
-# 🗑️ Archivos/carpetas
+# # 🗑️ Archivos/carpetas opcionales
 
 ## 1. node_modules/
 
@@ -97,7 +97,7 @@ La otra persona debe:
 ## 1. Copiar carpeta a htdocs
 
 ```text
-C:\xampp\htdocs\inventario
+C:\xampp\htdocs\Proyecto-PS
 ```
 
 ## 2. Abrir XAMPP
@@ -109,7 +109,7 @@ Iniciar:
 ## 3. Entrar al navegador
 
 ```text
-http://localhost/inventario
+http://localhost/Proyecto-PS
 ```
 
 ---
@@ -168,4 +168,4 @@ Ya que allí se almacenan todos los registros e inventarios.
 Si Apache está iniciado y la carpeta se encuentra dentro de htdocs,
 el sistema funcionará correctamente ingresando desde:
 
-http://localhost/inventario
+http://localhost/Proyecto-PS
