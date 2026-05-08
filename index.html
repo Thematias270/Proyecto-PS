@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inventario IT</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body class="bg-gray-100 min-h-screen p-8">
+    <div class="max-w-7xl mx-auto">
+      <!-- HEADER -->
+      <div class="flex justify-between items-center mb-6">
+        <h1 class="text-3xl font-bold">Inventarios de Equipos</h1>
+
+        <button
+          onclick="abrirModal()"
+          class="bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800"
+        >
+          + Crear Inventario
+        </button>
+      </div>
+
+      <!-- CARDS -->
+      <div id="contenedorCards" class="grid grid-cols-4 gap-6 mb-10"></div>
+
+      <!-- BUSCADOR -->
+      <div class="mb-8">
+        <input
+          type="text"
+          id="buscador"
+          placeholder="Buscar equipo..."
+          class="w-full border border-gray-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-black outline-none"
+        />
+      </div>
+
+      <!-- LISTADO -->
+      <div id="listadoEquipos" class="bg-white rounded-xl shadow p-6 hidden">
+        <div class="flex justify-between items-center mb-4">
+          <h2 id="tituloListado" class="text-xl font-semibold"></h2>
+          <button
+            onclick="cerrarListado()"
+            class="text-red-500 hover:bg-red-100 px-3 py-1 rounded"
+          >
+            ❌
+          </button>
+        </div>
+
+        <div class="flex gap-3 mb-4 flex-wrap">
+          <button
+            onclick="exportarExcel()"
+            class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-700"
+          >
+            Exportar Excel
+          </button>
+
+          <button
+            onclick="exportarTodoExcel()"
+            class="bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-700"
+          >
+            Exportar TODOS LOS INVENTARIOS
+          </button>
+
+          <button
+            onclick="abrirFormulario()"
+            class="bg-black text-white px-4 py-2 rounded hover:bg-gray-800"
+          >
+            + Nuevo registro
+          </button>
+          <button
+            id="btnEliminarSeleccionados"
+            onclick="eliminarSeleccionados()"
+            class="bg-red-500 text-white px-4 py-2 rounded transition-all duration-300 opacity-0 scale-95 pointer-events-none hover:bg-red-700"
+          >
+            🗑️ Eliminar seleccionados
+          </button>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full border-collapse">
+            <thead class="bg-gray-100">
+              <tr></tr>
+            </thead>
+            <tbody id="tablaEquipos"></tbody>
+          </table>
+        </div>
+        <div
+          id="paginacion"
+          class="flex flex-col sm:flex-row justify-between items-center gap-3 mt-4"
+        >
+          <!-- Selector -->
+          <div class="flex items-center gap-2">
+            <span class="text-sm text-gray-600">Mostrar:</span>
+            <select
+              id="selectCantidad"
+              class="border rounded px-2 py-1 text-sm"
+            >
+              <option value="10">10</option>
+              <option value="25">25</option>
+              <option value="50">50</option>
+            </select>
+          </div>
+
+          <!-- Controles -->
+          <div class="flex items-center gap-2">
+            <button
+              onclick="paginaAnterior()"
+              class="px-3 py-1 bg-gray-200 rounded hover:bg-gray-300"
+            >
+              ← Anterior
+            </button>
+
+            <span id="infoPagina" class="text-sm text-gray-600"></span>
+
+            <button
+              onclick="paginaSiguiente()"
+              class="px-3 py-1 bg-gray-200 rounded hover:bg-gray-300"
+            >
+              Siguiente →
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CARGADOR -->
+    <div
+      id="loader"
+      class="hidden fixed inset-0 bg-black bg-opacity-30 flex items-center justify-center z-50"
+    >
+      <div class="bg-white p-4 rounded-lg shadow-lg flex items-center gap-3">
+        <div
+          class="animate-spin rounded-full h-6 w-6 border-4 border-blue-500 border-t-transparent"
+        ></div>
+        <span>Cargando...</span>
+      </div>
+    </div>
+
+    <!-- MODAL -->
+    <div
+      id="modal"
+      class="fixed inset-0 bg-black bg-opacity-50 hidden justify-center items-center z-50"
+    >
+      <div
+        id="modalContenido"
+        class="bg-white w-full max-w-md rounded-2xl shadow-lg p-6 max-h-[90vh] overflow-y-auto transform transition-all scale-95 opacity-0"
+      >
+        <!-- Header -->
+        <div class="flex justify-between items-center mb-4">
+          <h2 id="tituloModal" class="text-xl font-bold">Nuevo Inventario</h2>
+          <button
+            onclick="cerrarModal()"
+            class="text-gray-500 hover:text-black"
+          >
+            ✖
+          </button>
+        </div>
+
+        <label class="block text-sm font-medium text-gray-700 mb-2">
+          Elegí un icono
+        </label>
+
+        <input type="hidden" id="iconoInventario" value="box" />
+
+        <div
+          id="selectorIconos"
+          class="grid grid-cols-5 gap-3 mb-4 max-h-52 overflow-y-auto pr-1"
+        ></div>
+
+        <!-- Nombre -->
+        <label class="block text-sm font-medium text-gray-700 mb-1">
+          Nombre del inventario
+        </label>
+
+        <input
+          id="nombreInventario"
+          type="text"
+          placeholder="Ej: Notebooks, PCs, Monitores..."
+          class="w-full border border-gray-300 p-2 rounded-lg mb-4 focus:ring-2 focus:ring-black outline-none"
+        />
+
+        <!-- Columnas -->
+        <div class="mb-2 text-sm text-gray-500">Columnas del inventario</div>
+
+        <div
+          id="contenedorColumnas"
+          class="max-h-40 overflow-y-auto mb-3 space-y-2"
+        ></div>
+
+        <!-- Botón agregar -->
+        <button
+          onclick="agregarCampo()"
+          class="w-full border border-dashed border-gray-400 py-2 rounded-lg text-sm hover:bg-gray-100 transition"
+        >
+          + Agregar campo
+        </button>
+
+        <div class="mt-6 space-y-4">
+          <!-- IMPORTAR -->
+          <div class="bg-gray-50 border rounded-lg p-3">
+            <p class="text-sm text-gray-500 mb-2">Importar desde Excel</p>
+
+            <div class="flex flex-wrap gap-2 items-center">
+              <input
+                type="file"
+                id="inputExcel"
+                accept=".xlsx,.xls"
+                class="flex-1 text-sm border rounded-lg px-3 py-2 bg-white"
+              />
+
+              <button
+                id="btnImportarExcel"
+                onclick="importarExcel()"
+                class="w-full sm:w-auto bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-800 shadow whitespace-nowrap flex items-center justify-center gap-2"
+              >
+                <i data-lucide="upload" class="w-4 h-4"></i>
+                Importar
+              </button>
+            </div>
+          </div>
+
+          <!-- ACCIONES -->
+          <div class="flex justify-end gap-3 pt-4 border-t">
+            <button
+              onclick="cerrarModal()"
+              class="px-4 py-2 rounded-lg border hover:bg-gray-100"
+            >
+              Cancelar
+            </button>
+
+            <button
+              id="btnGuardarInventario"
+              onclick="guardarInventario()"
+              class="bg-black text-white px-5 py-2 rounded-lg hover:bg-gray-800"
+            >
+              Guardar
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      id="toastContainer"
+      class="fixed top-5 right-5 flex flex-col gap-2 z-50"
+    ></div>
+    <!-- MODAL IMPORTACION -->
+    <div
+      id="modalImportacion"
+      class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50"
+    >
+      <div
+        id="contenidoImportacion"
+        class="bg-white w-full max-w-md rounded-2xl shadow-2xl p-6 scale-95 opacity-0 transition duration-200"
+      >
+        <h2 class="text-2xl font-bold mb-2 text-center">
+          📦 Importar Inventario
+        </h2>
+
+        <p class="text-gray-500 text-center mb-6">
+          Elegí cómo querés importar este archivo
+        </p>
+
+        <div class="space-y-3">
+          <button
+            onclick="seleccionarModoImportacion('1')"
+            class="w-full bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-xl font-semibold transition"
+          >
+            🔄 Sincronizar registros
+          </button>
+
+          <button
+            onclick="seleccionarModoImportacion('2')"
+            class="w-full bg-red-500 hover:bg-red-600 text-white p-3 rounded-xl font-semibold transition"
+          >
+            ♻️ Reemplazar todo
+          </button>
+
+          <button
+            onclick="cerrarModalImportacion()"
+            class="w-full bg-gray-200 hover:bg-gray-300 p-3 rounded-xl font-semibold transition"
+          >
+            ❌ Cancelar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      lucide.createIcons();
+    </script>
+
+    <script src="index.js"></script>
+  </body>
+</html>

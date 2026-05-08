@@ -1,0 +1,34 @@
+[
+    {
+        "marca": "Logitech",
+        "modelo": "M130",
+        "nombre": "MSEBCAS0001",
+        "asignado a": "Gustavo Giorlando",
+        "sn": "",
+        "id": 1
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "M130",
+        "nombre": "MSEBCAS0002",
+        "asignado a": "Johana Aguirre",
+        "sn": "",
+        "id": 2
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "M130",
+        "nombre": "MSEBCAS0003",
+        "asignado a": "Mauricio Alfaro",
+        "sn": "",
+        "id": 3
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "M130",
+        "nombre": "MSEBCAS0004",
+        "asignado a": "Ariel Disenttimio",
+        "sn": "2452ZAM4BYU9",
+        "id": 4
+    }
+]

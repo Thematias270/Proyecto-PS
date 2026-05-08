@@ -1,0 +1,38 @@
+[
+    {
+        "activo": "Proyector",
+        "modelo": "PW 955W",
+        "nombre": "PYTVIZ01",
+        "ubicación": "Comedor Vizcacheras",
+        "sn": "UBZK4100889",
+        "7 telefonos ethernet en vizcacheras almacen (4 en desuso)": "",
+        "id": 1
+    },
+    {
+        "activo": "Etiquetadora",
+        "modelo": "ZM400",
+        "nombre": "ETQVIZ01",
+        "ubicación": "Almacén Vizcacheras",
+        "sn": "No identificado",
+        "7 telefonos ethernet en vizcacheras almacen (4 en desuso)": "",
+        "id": 2
+    },
+    {
+        "activo": "Etiquetadora",
+        "modelo": "ZM400",
+        "nombre": "ETQLV01",
+        "ubicación": "Almacén LV",
+        "sn": "No identificado",
+        "7 telefonos ethernet en vizcacheras almacen (4 en desuso)": "",
+        "id": 3
+    },
+    {
+        "activo": "Plastificadora",
+        "modelo": "LM330",
+        "nombre": "PLSTLV01",
+        "ubicación": "Almacén LV",
+        "sn": "No identificado",
+        "7 telefonos ethernet en vizcacheras almacen (4 en desuso)": "",
+        "id": 4
+    }
+]

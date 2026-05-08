@@ -1,0 +1,90 @@
+[
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0001",
+        "asignado a": "Nicolás Saurina",
+        "sn": "2435MEH1Q5N8",
+        "id": 1
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0002",
+        "asignado a": "Guillermo Escoriaza",
+        "sn": "",
+        "id": 2
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0003",
+        "asignado a": "Ariel Velazquez",
+        "sn": "",
+        "id": 3
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0004",
+        "asignado a": "Victoria Rosatti",
+        "sn": "2435ME51Q7V8",
+        "id": 4
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0005",
+        "asignado a": "Gustavo Giorlando",
+        "sn": "",
+        "id": 5
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0006",
+        "asignado a": "Johana Aguirre",
+        "sn": "",
+        "id": 6
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0007",
+        "asignado a": "Lorena Manrique",
+        "sn": "",
+        "id": 7
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0008",
+        "asignado a": "Diego Bernalez",
+        "sn": "",
+        "id": 8
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0009",
+        "asignado a": "Sebastián Bernalez",
+        "sn": "",
+        "id": 9
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0010",
+        "asignado a": "Gustavo Rodriguez",
+        "sn": "",
+        "id": 10
+    },
+    {
+        "marca": "Logitech",
+        "modelo": "H390",
+        "nombre": "HDSBCAS0011",
+        "asignado a": "Germán Olaiz",
+        "sn": "2435MED1QXA8",
+        "id": 11
+    }
+]

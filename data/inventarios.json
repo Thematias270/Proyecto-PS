@@ -1,0 +1,562 @@
+{
+    "notebooks": {
+        "nombre": "Notebooks",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "ASUS",
+                    "Asus",
+                    "BANGHO",
+                    "DELL",
+                    "Dell",
+                    "HP",
+                    "LENOVO",
+                    "Lenovo",
+                    "VAIO"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "s\/o",
+                "tipo": "text"
+            },
+            {
+                "nombre": "cpu",
+                "tipo": "text"
+            },
+            {
+                "nombre": "memoria",
+                "tipo": "text"
+            },
+            {
+                "nombre": "disco",
+                "tipo": "text"
+            },
+            {
+                "nombre": "n\/s",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignación actual",
+                "tipo": "text"
+            },
+            {
+                "nombre": "empresa",
+                "tipo": "select",
+                "opciones": [
+                    "PS",
+                    "Suren"
+                ]
+            },
+            {
+                "nombre": "Área",
+                "tipo": "text"
+            }
+        ]
+    },
+    "pcs_de_escritorio": {
+        "nombre": "PCs de escritorio",
+        "icono": "box",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "nombre asignado",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre actual",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre original",
+                "tipo": "text"
+            },
+            {
+                "nombre": "¿dominio?",
+                "tipo": "checkbox"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "instalación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "Área",
+                "tipo": "text"
+            },
+            {
+                "nombre": "empresa",
+                "tipo": "text"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "text"
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "s\/o",
+                "tipo": "text"
+            },
+            {
+                "nombre": "cpu",
+                "tipo": "text"
+            },
+            {
+                "nombre": "memoria",
+                "tipo": "text"
+            },
+            {
+                "nombre": "disco",
+                "tipo": "text"
+            },
+            {
+                "nombre": "n\/s",
+                "tipo": "text"
+            },
+            {
+                "nombre": "responsable",
+                "tipo": "text"
+            },
+            {
+                "nombre": "usuario local",
+                "tipo": "text"
+            }
+        ]
+    },
+    "impresoras": {
+        "nombre": "Impresoras",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "fabricante",
+                "tipo": "text"
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "instalación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignado a",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            },
+            {
+                "nombre": "estado",
+                "tipo": "select",
+                "opciones": [
+                    "Activa",
+                    "Estropeado",
+                    "Inactiva",
+                    "No funcional"
+                ]
+            },
+            {
+                "nombre": "dirección ip",
+                "tipo": "text"
+            },
+            {
+                "nombre": "dirección mac",
+                "tipo": "text"
+            },
+            {
+                "nombre": "¿dhcp?",
+                "tipo": "checkbox"
+            }
+        ]
+    },
+    "televisores": {
+        "nombre": "Televisores",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "Bravia",
+                    "Desconocida",
+                    "LG",
+                    "NOBLEX",
+                    "Philips",
+                    "Samsung"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sector",
+                "tipo": "select",
+                "opciones": [
+                    "Administración",
+                    "Almacen",
+                    "Comedor",
+                    "General",
+                    "Gerencia",
+                    "Jefatura GA",
+                    "MTR (centro derecha)",
+                    "MTR (centro izquierda)",
+                    "MTR (derecha)",
+                    "MTR (izquierda)",
+                    "Mantenimiento",
+                    "PTC - Supervisión",
+                    "Producción",
+                    "Programación",
+                    "Sala de Control",
+                    "Sala de Seguridad",
+                    "Sala de control",
+                    "Sala de reuniones",
+                    "Supervisión",
+                    "Supervisores",
+                    "Supervisores UG",
+                    "Suren Vizcacheras",
+                    "Uso general"
+                ]
+            },
+            {
+                "nombre": "oficina",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            }
+        ]
+    },
+    "monitores": {
+        "nombre": "Monitores",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "instalación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "BANGHO",
+                    "DELL",
+                    "HP",
+                    "IBM",
+                    "LG",
+                    "Samsung",
+                    "Sin asignar"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignado a",
+                "tipo": "text"
+            },
+            {
+                "nombre": "¿puerto hdmi?",
+                "tipo": "checkbox"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            },
+            {
+                "nombre": "estado",
+                "tipo": "select",
+                "opciones": [
+                    "A determinar",
+                    "Defectuoso",
+                    "Estropeado",
+                    "Funcional",
+                    "No funcional",
+                    "Sin asignar"
+                ]
+            },
+            {
+                "nombre": "empresa",
+                "tipo": "select",
+                "opciones": [
+                    "PS",
+                    "Sin asignar",
+                    "Suren"
+                ]
+            }
+        ]
+    },
+    "auriculares": {
+        "nombre": "Auriculares",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "Logitech"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignado a",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            }
+        ]
+    },
+    "mouses": {
+        "nombre": "Mouses",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "Logitech"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignado a",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            }
+        ]
+    },
+    "teléfonos": {
+        "nombre": "Teléfonos",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": [
+                    "Yealink"
+                ]
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "asignado a",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            }
+        ]
+    },
+    "servidores": {
+        "nombre": "Servidores",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "instalación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "Área",
+                "tipo": "text"
+            },
+            {
+                "nombre": "empresa",
+                "tipo": "select",
+                "opciones": [
+                    "PS"
+                ]
+            },
+            {
+                "nombre": "marca",
+                "tipo": "select",
+                "opciones": []
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "s\/o",
+                "tipo": "text"
+            },
+            {
+                "nombre": "cpu",
+                "tipo": "text"
+            },
+            {
+                "nombre": "memoria",
+                "tipo": "text"
+            },
+            {
+                "nombre": "disco",
+                "tipo": "text"
+            },
+            {
+                "nombre": "n\/s",
+                "tipo": "text"
+            },
+            {
+                "nombre": "televisor",
+                "tipo": "text"
+            },
+            {
+                "nombre": "monitor",
+                "tipo": "text"
+            },
+            {
+                "nombre": "¿mouse?",
+                "tipo": "checkbox"
+            },
+            {
+                "nombre": "¿teclado?",
+                "tipo": "checkbox"
+            },
+            {
+                "nombre": "responsable",
+                "tipo": "text"
+            },
+            {
+                "nombre": "usuario local",
+                "tipo": "text"
+            }
+        ]
+    },
+    "otros_activos": {
+        "nombre": "Otros activos",
+        "campos": [
+            {
+                "nombre": "id",
+                "tipo": "number"
+            },
+            {
+                "nombre": "activo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "modelo",
+                "tipo": "text"
+            },
+            {
+                "nombre": "nombre",
+                "tipo": "text"
+            },
+            {
+                "nombre": "ubicación",
+                "tipo": "text"
+            },
+            {
+                "nombre": "sn",
+                "tipo": "text"
+            },
+            {
+                "nombre": "7 telefonos ethernet en vizcacheras almacen (4 en desuso)",
+                "tipo": "text"
+            }
+        ]
+    }
+}
