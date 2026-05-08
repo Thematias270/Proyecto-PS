@@ -1,6 +1,6 @@
 # Proyecto - PS
 
-# Manual de instalación y uso del software de Inventario
+# Manual de Instalación y Uso del Sistema de Inventario
 
 ## 📌 Requisitos previos
 
@@ -25,10 +25,6 @@ C:\xampp\htdocs\inventario
 
 # 🚀 Instalación rápida en otra PC
 
-## Opción recomendada (más limpia)
-
-Subir o compartir el proyecto **sin archivos innecesarios**.
-
 ## 📂 Archivos/carpetas IMPORTANTES que sí deben estar:
 
 ```text
@@ -45,25 +41,19 @@ composer.lock
 
 ---
 
-# 🗑️ Archivos/carpetas que podés eliminar antes de compartir
+# 🗑️ Archivos/carpetas
 
 ## 1. node_modules/
 
-Se puede borrar sin problema.
-
-Contiene dependencias de Tailwind / Vite usadas en desarrollo.
+Contiene dependencias de Tailwind / Vite.
 
 ```text
 node_modules/
 ```
 
-Ocupa mucho espacio y no hace falta para ejecutar el sistema si ya está el CSS generado.
-
 ---
 
 ## 2. package-lock.json
-
-Opcional.
 
 ```text
 package-lock.json
@@ -74,8 +64,6 @@ Solo sirve para npm.
 ---
 
 ## 3. package.json
-
-Opcional si no se va a editar Tailwind.
 
 ```text
 package.json
@@ -102,9 +90,7 @@ Si la borrás, esas funciones dejan de andar.
 
 ---
 
-# 🔥 Si querés compartir versión completa lista para usar:
-
-Solo comprimí la carpeta del proyecto y listo.
+# 🔥 Lista para usar:
 
 La otra persona debe:
 
@@ -154,42 +140,32 @@ composer install
 
 ---
 
-# 💡 Recomendación profesional para GitHub
+# 🖥️ Uso básico del sistema
 
-Agregar `.gitignore`
-
-```text
-node_modules/
-```
-
-Así no subís basura pesada.
-
----
-
-# ✅ Conclusión
-
-## Para que funcione en otra PC alcanza con:
-
-- Descargar proyecto
-- Ponerlo en htdocs
-- Levantar Apache
-- Entrar por localhost
-
-## No hace falta tocar nada más.
+- Crear inventarios personalizados
+- Agregar registros
+- Editar registros existentes
+- Eliminar registros
+- Buscar información
+- Filtrar por columnas
+- Importar datos desde Excel
+- Exportar registros a Excel
 
 ---
 
-# 🚀 Mi consejo final
+# 💾 Copia de seguridad
 
-Antes de compartir:
+Se recomienda respaldar periódicamente la carpeta:
 
-Eliminar:
+data/
 
-```text
-node_modules/
-package-lock.json
-```
+Ya que allí se almacenan todos los registros e inventarios.
 
-Y dejar todo lo demás.
+---
 
-Queda más liviano y profesional.
+# ✅ Sistema instalado correctamente
+
+Si Apache está iniciado y la carpeta se encuentra dentro de htdocs,
+el sistema funcionará correctamente ingresando desde:
+
+http://localhost/inventario
