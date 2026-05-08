@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://unpkg.com/lucide@latest"></script>
+
+<title>Login</title>
+</head>
+
+<body class="flex min-h-screen items-center justify-center bg-gray-100 p-6">
+
+<div class="w-full max-w-md">
+
+<div class="bg-white shadow-lg rounded-xl p-8">
+
+<div class="text-center mb-6">
+
+<div class="flex items-center justify-center w-12 h-12 rounded-full bg-gray-200 mx-auto mb-4">
+<i data-lucide="log-in"></i>
+</div>
+
+<h2 class="text-2xl font-bold">Iniciar sesión</h2>
+
+<p class="text-gray-500 text-sm">
+Ingresa tus credenciales para acceder a tu cuenta
+</p>
+
+</div>
+
+
+<form id="loginForm" class="space-y-4">
+
+<div>
+
+<label class="text-sm font-medium">Correo electrónico</label>
+
+<div class="relative">
+
+<i data-lucide="mail" class="absolute left-3 top-3 w-4 h-4 text-gray-400"></i>
+
+<input
+id="email"
+type="email"
+placeholder="correo@ejemplo.com"
+class="w-full border rounded-lg pl-10 py-2 focus:ring-2 focus:ring-black"
+/>
+
+</div>
+
+<p id="emailError" class="text-sm text-red-500"></p>
+
+</div>
+
+
+<div>
+
+<label class="text-sm font-medium">Contraseña</label>
+
+<div class="relative">
+
+<i data-lucide="lock" class="absolute left-3 top-3 w-4 h-4 text-gray-400"></i>
+
+<input
+id="password"
+type="password"
+placeholder="Tu contraseña"
+class="w-full border rounded-lg pl-10 pr-10 py-2 focus:ring-2 focus:ring-black"
+/>
+
+<button
+type="button"
+id="togglePassword"
+class="absolute right-3 top-3 text-gray-400"
+>
+<i data-lucide="eye"></i>
+</button>
+
+</div>
+
+<p id="passwordError" class="text-sm text-red-500"></p>
+
+</div>
+
+
+<div class="flex justify-end">
+
+<a href="#" class="text-sm text-black hover:underline">
+¿Olvidaste tu contraseña?
+</a>
+
+</div>
+
+
+<button
+id="loginBtn"
+class="w-full bg-black text-white py-2 rounded-lg hover:bg-gray-800 transition"
+>
+Iniciar sesión
+</button>
+
+
+<p class="text-center text-sm text-gray-500">
+
+¿No tienes una cuenta?
+
+<a href="#" class="font-medium text-black hover:underline">
+Regístrate
+</a>
+
+</p>
+
+</form>
+
+</div>
+
+</div>
+
+<script src="login.js"></script>
+
+<script>
+lucide.createIcons()
+</script>
+
+</body>
+</html>

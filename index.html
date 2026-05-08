@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inventario IT</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+  </head>
+  <body class="bg-gray-100 min-h-screen p-8">
+    <div class="max-w-7xl mx-auto">
+      <h1 class="text-3xl font-bold mb-6">Inventario de Equipos</h1>
+
+      <!-- Buscador -->
+
+      <div class="mb-8">
+        <input
+          type="text"
+          placeholder="Buscar equipo..."
+          class="w-full border border-gray-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-black outline-none"
+        />
+      </div>
+
+      <!-- Cartas -->
+      <div class="flex justify-between items-center mb-6">
+        <h1 class="text-3xl font-bold">Inventario de Equipos</h1>
+
+        <button
+          onclick="abrirModal()"
+          class="bg-black text-white px-4 rounded-lg hover:bg-gray-800"
+        >
+          + Crear Inventario
+        </button>
+      </div>
+
+      <div id="contenedorCards" class="grid grid-cols-4 gap-6 mb-10"></div>
+
+      <!-- Listado -->
+
+      <div id="listadoEquipos" class="bg-white rounded-x1 shadow p-6 hidden">
+        <h2 id="tituloListado" class="text-xl font-semibold mb-4"></h2>
+
+        <button
+          onclick="abrirFomulario()"
+          class="bg-black text-white px-4 py-2 rounded hover:bg-gray-800"
+        >
+          + Nuevo registro
+        </button>
+        <table class="w-full border-collapse">
+          <thead class="bg-gray-100">
+            <tr>
+              <th class="text-left p-2">Nombre</th>
+              <th class="text-left p-2">Área</th>
+              <th class="text-left p-2">Marca</th>
+              <th class="text-left p-2">Modelo</th>
+              <th class="text-left p-2">Responsable</th>
+              <th class="p-2">Editar</th>
+              <th class="p-2">Eliminar</th>
+            </tr>
+          </thead>
+          <tbody id="tablaEquipos"></tbody>
+        </table>
+      </div>
+      <script>
+        lucide.createIcons();
+      </script>
+      <script src="index.js"></script>
+    </div>
+    <div
+      id="modal"
+      class="fixed inset-0 bg-black bg-opacity-50 hidden justify-center items-center"
+    >
+      <div class="bg-white p-6 rounded-xl w-96">
+        <h2 class="text-xl font-semibold mb-4">Nuevo Inventario</h2>
+
+        <input
+          id="nombreInventario"
+          type="text"
+          placeholder="Nombre del inventario"
+          class="w-full border p-2 rounded mb-4"
+        />
+
+        <div id="contenedorColumnas"></div>
+
+        <button onclick="agregarCampo()" class="text-blue-500 mb-4">
+          + Agregar Campo
+        </button>
+
+        <div class="flex justify-end gap-2">
+          <button onclick="cerrarModal()">Cancelar</button>
+
+          <button
+            onclick="guardarInventario()"
+            class="bg-black text-white px-4 py-2 rounded"
+          >
+            Guardar
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
