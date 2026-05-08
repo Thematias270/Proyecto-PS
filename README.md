@@ -1,35 +1,32 @@
-# Proyecto - PS
+# Proyecto-PS
 
-# Manual de instalación y uso del software de Inventario
+Sistema web de inventario desarrollado en **PHP + JavaScript + TailwindCSS** para la gestión interna de activos tecnológicos, registros e importación de datos desde Excel.
 
-## 📌 Requisitos previos
+---
 
-Antes de usar el sistema en otra PC, se necesita:
+## 📘 Manual de Instalación y Uso del Sistema de Inventario
 
-- **XAMPP** instalado (Apache obligatorio).
-- PHP habilitado desde XAMPP.
-- Navegador web (Chrome recomendado).
-- El proyecto copiado dentro de:
+## 📌 Requisitos Previos
+
+Antes de utilizar el sistema en otra PC, se requiere:
+
+- XAMPP instalado
+- Apache habilitado
+- PHP operativo desde XAMPP
+- Navegador web (Chrome recomendado)
+- Composer (opcional, solo si se necesita reinstalar dependencias)
+
+El proyecto debe estar ubicado dentro de:
 
 ```text
-C:\xampp\htdocs\
-```
-
-Ejemplo:
-
-```text
-C:\xampp\htdocs\inventario
+C:\xampp\htdocs\Proyecto-PS
 ```
 
 ---
 
-# 🚀 Instalación rápida en otra PC
+## 🚀 Instalación Rápida
 
-## Opción recomendada (más limpia)
-
-Subir o compartir el proyecto **sin archivos innecesarios**.
-
-## 📂 Archivos/carpetas IMPORTANTES que sí deben estar:
+### 📂 Archivos necesarios
 
 ```text
 api/
@@ -45,106 +42,120 @@ composer.lock
 
 ---
 
-# 🗑️ Archivos/carpetas que podés eliminar antes de compartir
-
-## 1. node_modules/
-
-Se puede borrar sin problema.
-
-Contiene dependencias de Tailwind / Vite usadas en desarrollo.
+## 📦 Archivos opcionales
 
 ```text
 node_modules/
-```
-
-Ocupa mucho espacio y no hace falta para ejecutar el sistema si ya está el CSS generado.
-
----
-
-## 2. package-lock.json
-
-Opcional.
-
-```text
+package.json
 package-lock.json
 ```
 
-Solo sirve para npm.
+Estos archivos solo son necesarios para desarrollo frontend o recompilar estilos.
 
 ---
 
-## 3. package.json
+## ⚠️ Carpeta `vendor`
 
-Opcional si no se va a editar Tailwind.
+La carpeta `vendor/` contiene dependencias PHP necesarias para el funcionamiento del sistema.
+
+Incluye librerías como:
+
+- PhpSpreadsheet
+- Dependencias auxiliares de Composer
+
+### Funciones afectadas si falta:
+
+- Importación de archivos Excel
+- Exportación de datos a Excel
+
+---
+
+## ▶️ Puesta en Marcha
+
+### 1. Abrir XAMPP
+
+Iniciar los servicios:
+
+- Apache
+
+### 2. Verificar ubicación del proyecto
 
 ```text
-package.json
+C:\xampp\htdocs\Proyecto-PS
+```
+
+### 3. Abrir en navegador
+
+```text
+http://localhost/Proyecto-PS
 ```
 
 ---
 
-# ⚠️ IMPORTANTE: carpeta vendor/
+## 📊 Base de Datos
 
-## NO borrar `vendor/`
-
-La carpeta:
-
-```text
-vendor/
-```
-
-es necesaria porque contiene **PhpSpreadsheet**, librería usada para:
-
-✅ Importar Excel
-✅ Exportar Excel
-
-Si la borrás, esas funciones dejan de andar.
-
----
-
-# 🔥 Si querés compartir versión completa lista para usar:
-
-Solo comprimí la carpeta del proyecto y listo.
-
-La otra persona debe:
-
-## 1. Copiar carpeta a htdocs
-
-```text
-C:\xampp\htdocs\inventario
-```
-
-## 2. Abrir XAMPP
-
-Iniciar:
-
-✅ Apache
-
-## 3. Entrar al navegador
-
-```text
-http://localhost/inventario
-```
-
----
-
-# 📊 Base de datos del sistema
-
-Este sistema usa archivos JSON en:
+El sistema utiliza almacenamiento mediante archivos JSON ubicados en:
 
 ```text
 data/
 ```
 
-Ahí se guardan inventarios y registros.
+### Ventajas:
 
-No necesita MySQL.
+- No requiere MySQL
+- Instalación rápida
+- Portabilidad sencilla
+- Fácil respaldo
 
 ---
 
-# 🔧 Si algún día borran vendor/
+## 🖥️ Funcionalidades Principales
 
-Se recupera así:
+- Crear inventarios dinámicos
+- Registrar equipos y activos
+- Editar registros existentes
+- Eliminar registros
+- Buscar información rápidamente
+- Filtrar por columnas
+- Importar datos desde Excel
+- Exportar registros a Excel
+- Formularios automáticos según inventario
+- Detección de tipos de campos
+
+---
+
+## 🧩 Tecnologías Utilizadas
+
+- PHP
+- JavaScript (Vanilla JS)
+- TailwindCSS
+- HTML5
+- JSON
+- PhpSpreadsheet
+- XAMPP / Apache
+
+---
+
+## 📁 Estructura del Proyecto
+
+```text
+Proyecto-PS/
+│── api/
+│── css/
+│── JS/
+│── data/
+│── vendor/
+│── index.html
+│── formulario.html
+│── composer.json
+│── composer.lock
+```
+
+---
+
+## 🔧 Recuperar Dependencias
+
+Si la carpeta `vendor/` fue eliminada, ejecutar:
 
 ```bash
 composer install
@@ -154,42 +165,47 @@ composer install
 
 ---
 
-# 💡 Recomendación profesional para GitHub
+## 💾 Copias de Seguridad
 
-Agregar `.gitignore`
+Se recomienda respaldar periódicamente la carpeta:
 
 ```text
-node_modules/
+data/
 ```
 
-Así no subís basura pesada.
+Ya que contiene:
+
+- Inventarios creados
+- Registros cargados
+- Configuración operativa
 
 ---
 
-# ✅ Conclusión
+## 🔒 Recomendaciones de Uso
 
-## Para que funcione en otra PC alcanza con:
-
-- Descargar proyecto
-- Ponerlo en htdocs
-- Levantar Apache
-- Entrar por localhost
-
-## No hace falta tocar nada más.
+- No modificar archivos JSON manualmente si el sistema está en uso.
+- Realizar backup antes de importar grandes volúmenes de Excel.
+- Mantener una copia del proyecto completa.
+- Verificar permisos de escritura en carpeta `data/`.
 
 ---
 
-# 🚀 Mi consejo final
-
-Antes de compartir:
-
-Eliminar:
+## ✅ Acceso Final
 
 ```text
-node_modules/
-package-lock.json
+http://localhost/Proyecto-PS
 ```
 
-Y dejar todo lo demás.
+---
 
-Queda más liviano y profesional.
+## 👨‍💻 Autor
+
+Desarrollado por **Matías Moran**
+
+---
+
+## 📌 Estado del Proyecto
+
+✅ Operativo
+✅ Escalable
+✅ Listo para uso interno empresarial
